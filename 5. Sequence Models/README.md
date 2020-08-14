@@ -1,19 +1,9 @@
-
-## Objectives:
-  - Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs.
-  - Natural Language Processing & Word Embeddings. Examples of applications are sentiment analysis, named entity recognition and machine translation.
-  - Sequence models & Attention mechanism.
+## Week 1: Recurrent Neural Networks
+  - Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
   
-## Week 1:
-  - Building a Recurrent Neural Network - Step by Step - v3
-  - Dinosaurus Island -- Character level language model final - v3
-  - Improvise a Jazz Solo with an LSTM Network - v3
+## Week 2: Natural Language Processing & Word Embeddings
+  - Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
   
-## Week 2:
-  - Operations on word vectors - v2
-  - Emojify - v2
-  
-## Week 3:
-  - Neural machine translation with attention - v4.ipynb
-  - Trigger word detection - v1
+## Week 3: Sequence models & Attention mechanism
+  - Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
   
