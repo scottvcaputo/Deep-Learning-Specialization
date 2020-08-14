@@ -4,9 +4,9 @@
 ## Week 2: Deep convolutional models: case studies
   - Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
   
-## Week 3:
+## Week 3: Object detection
   - Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
   
-## Week 4:
+## Week 4: Special applications: Face recognition & Neural style transfer
   - Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
  
