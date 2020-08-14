@@ -1,2 +1,5 @@
-# OhGreatScott
-Operation: Learn to Code
+# Deep Learning Specialization
+
+
+
+This repository contains my work for the deeplearning.ai specialization
